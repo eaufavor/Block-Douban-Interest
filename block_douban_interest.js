@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Block Douban Interest
-// @namespace    
+// @namespace   
+// @updateURL    https://raw.githubusercontent.com/eaufavor/Block-Douban-Interest/master/block_douban_interest.js
 // @version      0.1
 // @description  block douban interest
 // @author       eaufavor
